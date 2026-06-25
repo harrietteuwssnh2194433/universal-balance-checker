@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/universal-balance-checker)
+[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/universal-balance-checker)
 
 </div>
 
@@ -78,7 +78,7 @@ The **Universal Balance Checker** is a professional **free** local utility desig
 
 <div align="center">
 
-[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/universal-balance-checker)
+[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/universal-balance-checker)
 
 </div>
 
@@ -101,7 +101,7 @@ The **Universal Balance Checker** is a professional **free** local utility desig
 
 <div align="center">
 
-[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/universal-balance-checker)
+[![Download Universal Checker](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/universal-balance-checker)
 
 **Version 2026.04 Universal** — *The Apex of Digital Asset Management.*
 
